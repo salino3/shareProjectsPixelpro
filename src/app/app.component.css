@@ -1,0 +1,47 @@
+
+
+.amarillo{
+    background: yellow;
+}
+.activeamarillo{
+    background: yellow;
+    color: white;
+}
+.azul{
+    background: blue;
+     
+
+}
+.activoazul{
+    background: blue;
+    color: white;
+
+}
+.verdeClaro{
+    background: lightgreen;
+      
+}
+.activoVerdeClaro{
+    background: lightgreen;
+        color: white;
+}
+
+.rojo{
+    background: red;
+
+}
+.activoRojo{
+    background: red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
